@@ -1,0 +1,17 @@
+# CropSense AI — Production Requirements
+# ════════════════════════════════════════
+
+# Core ML
+torch>=2.2.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Dashboard
+streamlit>=1.35.0
+
+# Weather (real-time, free, no API key)
+requests>=2.31.0
+
+# Utilities
+joblib>=1.3.0
